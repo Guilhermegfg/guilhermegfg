@@ -22,6 +22,11 @@
 - [Dev links](https://guilhermegfg.github.io/discover-rocketseat/)
 #### ProgramadorBr
 - [Página de receitas](https://guilhermegfg.github.io/PaginaReceitas-ProgBr/)
+- [Currículo](https://guilhermegfg.github.io/Curriculo-ProgBr/)
+- [Churrascometro](https://guilhermegfg.github.io/Churrascometro-ProgBr/)
+- [Página de captura](https://guilhermegfg.github.io/pagina-captura/)
+#### OneBitCode
+- [Landing Page](https://guilhermegfg.github.io/landingPage-oneBitCode/)
   
 
 ## Redes sociais
