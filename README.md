@@ -25,6 +25,7 @@
 - [Currículo](https://guilhermegfg.github.io/Curriculo-ProgBr/)
 - [Churrascometro](https://guilhermegfg.github.io/Churrascometro-ProgBr/)
 - [Página de captura](https://guilhermegfg.github.io/pagina-captura/)
+- [Jogo da velha](https://guilhermegfg.github.io/JogoDaVelha-ProgBr/)
 #### OneBitCode
 - [Landing Page](https://guilhermegfg.github.io/landingPage-oneBitCode/)
   
