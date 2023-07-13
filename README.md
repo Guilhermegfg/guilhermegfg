@@ -20,6 +20,7 @@
 ## Projetos
 #### Rocketseat 
 - [Dev links](https://guilhermegfg.github.io/discover-rocketseat/)
+- [Bora codar](https://guilhermegfg.github.io/BoraCodar-Rocketseat/)
 #### ProgramadorBr
 - [Página de receitas](https://guilhermegfg.github.io/PaginaReceitas-ProgBr/)
 - [Currículo](https://guilhermegfg.github.io/Curriculo-ProgBr/)
