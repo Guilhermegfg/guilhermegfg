@@ -3,7 +3,7 @@
 
 ## Sobre mim 
 
-- Tenho 23 anos
+- Tenho 24 anos
 - Curso Ciência da Computação na Faculdade Descomplica
 
 ## Ferramentas e tecnologias
